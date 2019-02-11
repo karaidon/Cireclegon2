@@ -1,0 +1,6 @@
+class Entity
+{
+  
+  void draw()
+  {}
+}
